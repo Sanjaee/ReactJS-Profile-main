@@ -25,7 +25,7 @@ const Work = () => {
               <a
                 target="_blank"
                 rel="noreferrer noopener"
-                href="https://ruurmerch.000webhostapp.com/"
+                href="https://wa.me/6289618714018/?text=Hello%20Eja"
               >
                 <i class="uil uil-arrow-up-left"></i>
                 <span>CLICK TO ORDER JOKI</span>
